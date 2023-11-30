@@ -2,7 +2,7 @@
 - 👀 I’m interested in web programming 
 - 🌱 I’m currently learning Python, Django, JS, React, HTML, CSS, 
 - 💞️ I’m looking to collaborate on interesting projects in WEB development.
-- 📫 How to reach me: divanster@gail.com
+- 📫 How to reach me: divanster@gmail.com
 
 <!---
 divanster/divanster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
