@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ivan Yotov
+- 👋 Hi, I’m Ivan Yotov - www.ivanyotov.eu
 - 👀 I’m interested in web programming 
-- 🌱 I’m currently learning Python, Flask, Django, PostgreDB, Docker and Kubernetes,HTML, CSS,  JS, React
+- 🌱 I’m currently learning Python,Django REST Framework, Flask, Django, PostgreDB, Docker and Kubernetes,HTML, CSS,  JS, React
 - 💞️ I’m looking to collaborate on interesting projects in WEB development.
 - 📫 How to reach me: divanster@gmail.com
 
